@@ -1,0 +1,38 @@
+# Virtual environments
+venv/
+env/
+ENV/
+virtualenv/
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Data files
+data/raw/
+*.csv
+*.xlsx
+*.parquet
+*.pkl
+*.pickle
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
