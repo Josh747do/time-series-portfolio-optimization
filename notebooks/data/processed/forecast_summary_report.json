@@ -1,0 +1,34 @@
+{
+  "forecast_period": {
+    "start": "2026-01-15",
+    "end": "2027-01-01",
+    "days": 252
+  },
+  "price_statistics": {
+    "start_price": 421.10968017578125,
+    "end_price": 195.54513549804688,
+    "total_return_percent": -53.564321994781494,
+    "max_price": 421.10968017578125,
+    "min_price": 195.54513549804688
+  },
+  "trend_analysis": {
+    "direction": "STRONGLY BEARISH \ud83d\udcc9",
+    "monthly_return_avg": -6.496548110788519,
+    "quarterly_return_avg": -20.835334062576294
+  },
+  "uncertainty": {
+    "avg_confidence_width": 70.59830780029297,
+    "uncertainty_change_percent": -53.56432190862447
+  },
+  "opportunities": [],
+  "risks": [
+    "Low Volatility: 0.3% daily standard deviation",
+    "Significant Drawdown Risk: Up to 53.6% peak-to-trough",
+    "Moderate Forecast Uncertainty: \u00b116.8% average"
+  ],
+  "model_info": {
+    "model_type": "LSTM",
+    "sequence_length": 60,
+    "forecast_horizon": 252
+  }
+}
