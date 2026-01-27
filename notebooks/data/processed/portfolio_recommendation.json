@@ -1,0 +1,49 @@
+{
+  "recommended_portfolio": "MINIMUM VOLATILITY PORTFOLIO",
+  "weights": {
+    "TSLA": 0.94272,
+    "BND": 0.05728,
+    "SPY": 0.0
+  },
+  "expected_performance": {
+    "annual_return": -0.5037906983117468,
+    "annual_volatility": 0.05256554941598938,
+    "sharpe_ratio": -9.58404704048435
+  },
+  "all_portfolios": {
+    "min_volatility": {
+      "weights": {
+        "TSLA": 0.94272,
+        "BND": 0.05728,
+        "SPY": 0.0
+      },
+      "performance": {
+        "return": -0.5037906983117468,
+        "volatility": 0.05256554941598938,
+        "sharpe": -9.58404704048435
+      }
+    },
+    "max_sharpe": {
+      "weights": {
+        "TSLA": 0.0,
+        "BND": 0.0,
+        "SPY": 1.0
+      },
+      "performance": {
+        "return": 0.14285011862265584,
+        "volatility": 0.5769231419173878,
+        "sharpe": 0.21294018162344283
+      }
+    }
+  },
+  "input_parameters": {
+    "tsla_forecast_return": -53.564321994781494,
+    "historical_returns": {
+      "BND": 0.020433723036012902,
+      "SPY": 0.14285011862265584,
+      "TSLA": 0.47491447611983073
+    },
+    "risk_free_rate": 0.02
+  },
+  "recommendation_date": "2026-01-27"
+}
