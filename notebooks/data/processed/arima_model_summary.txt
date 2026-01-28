@@ -3,7 +3,7 @@
 Dep. Variable:                      y   No. Observations:                  761
 Model:                 ARIMA(1, 0, 1)   Log Likelihood               -2679.011
 Date:                Tue, 27 Jan 2026   AIC                           5366.022
-Time:                        05:23:16   BIC                           5384.561
+Time:                        22:35:49   BIC                           5384.561
 Sample:                             0   HQIC                          5373.161
                                 - 761                                         
 Covariance Type:                  opg                                         
